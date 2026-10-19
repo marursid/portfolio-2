@@ -4,9 +4,9 @@
   "private": true,
   "description": "Sidram Marur — Interactive 3D Cyber-Anatomical Portfolio",
   "scripts": {
-    "start": "node serve.js",
+    "build": "echo 'Static assets ready'",
     "dev": "node serve.js",
-    "preview": "node serve.js"
+    "serve": "node serve.js"
   },
   "keywords": [
     "portfolio",
